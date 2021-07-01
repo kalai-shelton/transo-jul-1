@@ -17,6 +17,7 @@ missionPara2: "TRANSO’s digital optimisation technology provides everyone in t
 existenceReasonHeading: "The Reason for Our Existence"
 existencePara1: "The trucking and logistics industry has been long overdue for a technology overhaul. The industry demands efficiency, trust, transparency and real-time information. Different stakeholders have nuanced roles to play in the network, and these unique personas need innovative solutions that work for them."
 existencePara2: "TRANSO is set to create these innovative solutions – ones that challenge the current status- quo and deliver efficiency across the value chain, verticals and geographies. While it requires a lot of grit and determination to make an impact, the team at TRANSO is all set to take on this challenge with all our might."
+teamHeading: "Team"
 aboutTeamImg: "imga"
 aboutTeamPara: "teampara"
 meetImg: "/images/about/aboutusImg.png"
